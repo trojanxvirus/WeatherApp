@@ -10,7 +10,7 @@ A simple and elegant weather application that provides current weather condition
 
 ## Demo
 
-![Weather App Screenshot](path/to/screenshot.png)
+![Weather App Screenshot]("C:\Users\KIIT\Documents\project\WeatherApp\screenshot\ss1.png")
 
 ## Getting Started
 
