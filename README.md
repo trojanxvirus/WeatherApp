@@ -10,7 +10,8 @@ A simple and elegant weather application that provides current weather condition
 
 ## Demo
 
-![Weather App Screenshot]("screenshot/ss1.png")
+![Weather App Screenshot](screenshot/ss1.png)
+
 
 ## Getting Started
 
